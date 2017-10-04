@@ -56,6 +56,7 @@
           {
             "name": "OrderDateKey",
             "dataType": "int64",
+            "isHidden": true,
             "sourceColumn": "OrderDateKey",
             "formatString": "0",
             "summarizeBy": "count",
